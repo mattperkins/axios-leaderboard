@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    background-color: #f7f7f7;
+}
+.highlight{
+    background-color: #ff0;
+    padding: 6px;
+}
+
+/* ============= REMOVE BELOW ================= */
+
+.centerRow{
+     text-align: center;
+}
+
+.pointer{
+    cursor: pointer;
+}
+/* ============= REMOVE ABOVE ================= */
